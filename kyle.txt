@@ -1,2 +1,5 @@
 rjieojrfoiegit
 () => {function}
+() => {
+    function 2
+}
