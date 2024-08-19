@@ -1,7 +1,11 @@
 rjieojrfoiegit
+function () 3
+
 () => {function}
 () => {
     function 2
 }
+
+() => {fintion carriqwld[ ,}
 
 () => {dododoman}
