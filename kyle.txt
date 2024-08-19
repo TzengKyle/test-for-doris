@@ -1,4 +1,6 @@
 rjieojrfoiegit
+function () 3
+
 () => {function}
 () => {
     function 2
